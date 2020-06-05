@@ -1,0 +1,119 @@
+.nav-bar img{
+    width: 150px;
+    height: 120px;
+}
+.nav-bar{
+    background-color: #C7CCB9;
+}
+.nav-item{
+    margin-top: -85px;
+}
+.content{
+    text-align: center;
+    color: ghostwhite;
+    margin-top: 10px;
+    padding-top: 20px;
+    font-style: oblique;
+    font-family: emoji;
+    font-weight: 800;
+    background: cornflowerblue;  
+}
+.content hr{
+    border-color: cornflowerblue;
+    border-width: 2px;
+}
+.services{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    align-items: flex-end;
+    background-color: ghostwhite;
+}
+.services img{
+    width: 100px;
+    height: 100px;
+    margin: 30px;
+}
+.one,.two,.three,.four,.five,.six {
+    border: 1px solid cornflowerblue;
+    color: cornflowerblue;
+    margin-top: 10px;
+    margin-bottom: 10px;   
+}
+.one{
+    background-color: white;
+    padding: 10px 80px 10px 80px;
+    margin: 20px 10px 10px 79px;
+}
+.one img{
+    margin-right: 30px;
+}
+.one h3{
+    text-align: center;
+}
+.two{
+    background-color: white;
+    padding: 10px 80px 10px 90px;
+    margin: 20px 80px 10px 10px;
+}
+.two img{
+    margin-right: 30px;
+}
+.two h3{
+    text-align: center;
+}
+.three{
+    background-color: white;
+    padding: 10px 65px 10px 72px;
+    margin: 10px 10px 10px 80px;
+}
+.three img{
+    margin-left: 35px;
+}
+.four{
+    background-color: white;
+    padding: 10px 5px 10px 5px;
+    margin: 10px 80px 10px 10px;
+}
+.four img{
+    margin-left: 110px;
+}
+.five{
+    background-color: white;
+    padding: 10px 85px 10px 60px;
+    margin: 10px 10px 10px 80px;
+}
+.five img{
+    margin-left: 50px;
+}
+.five h3{
+    margin-left: 40px;
+}
+.six{
+    background-color: white;
+    padding: 10px 65px 10px 20px;
+    margin: 10px 80px 10px 10px;
+}
+.six img{
+    margin-left: 85px;
+}
+.six h3{
+    margin-left: 10px;
+}
+.top img{
+    position: fixed;
+    right:10px;
+    bottom: 40px;
+    width: 60px;
+    height: 60px;
+}
+.copyright{
+    background-color: cornflowerblue;
+    color: ghostwhite;
+    padding-left: 100px;
+    padding-bottom: 5px;
+    padding-top: 5px;
+    width: 100%;
+    margin-top: 20px;
+}

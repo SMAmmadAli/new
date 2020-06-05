@@ -1,0 +1,11 @@
+*{
+    text-align: center;
+}
+.thank{
+    color: green;
+}
+.end{
+    color: rgb(87, 15, 155);
+    font-style: oblique;
+    font-weight: bolder ;
+}

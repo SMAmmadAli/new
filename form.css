@@ -1,0 +1,54 @@
+*{
+    margin: 0;
+    padding: 0;
+   }
+.logo{
+    margin-top: 20px;
+    width: 200px;
+    height: 100px;
+   }
+.sub{
+    background-color: rgb(67, 80, 199);
+    color: white;
+    padding-left: 15px;
+    padding-top: 0px;
+}
+.form{
+    color: rgb(56, 73, 224);
+    text-decoration: underline;
+    text-align: center;
+    margin-top: 20px;
+}
+.firstname{
+    position: relative;
+    left: 50px;
+}
+.submit{
+    text-decoration: none;
+    color: white;
+}
+.thank{
+    text-align: center;
+}
+.spacing14{
+    margin-left: 50px;
+}
+.spacing13{
+    margin-left: 53px;
+}
+.spacing11{
+    margin-left: 94px;
+}
+.spacing10{
+    margin-left: 10px;
+}
+.spacing9{
+    margin-left: 77px;
+}
+.spacing8{
+    margin-left: 70px;
+}
+.spacing7{
+    margin-left: 110px;
+}
+

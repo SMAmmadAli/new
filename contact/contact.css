@@ -1,0 +1,21 @@
+.spacing14{
+    margin-left: 70px;
+    margin-top: 30px;
+}
+.spacing11{
+    margin-left: 70PX;
+}
+.spacing13{
+    margin-left: 95px;
+}
+.spacing8{
+    margin-left: 50px;
+}
+.spacing15{
+    margin-top: 15px;
+    background: cornflowerblue;
+    color: white;
+    border-radius: 5px;
+    width: 70px;
+    height: 50px;
+}

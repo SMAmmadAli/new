@@ -1,0 +1,46 @@
+.nav-bar img{
+    width: 130px;
+    height: 100px;
+}
+.nav-bar h1{
+    margin-left: 150px;
+    display: inline;
+    color: cornflowerblue;
+}
+.nav-bar hr{
+    border-color: cornflowerblue;
+}
+.content{
+    text-align: center;
+    color: cornflowerblue;
+    margin-top: 30px;
+    font-style: oblique;
+    font-family: emoji;
+    font-weight: 800;  
+}
+.content hr{
+    border-color: gray;
+    border-width: 1.35px;
+}
+.services{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    align-items: flex-end;
+    background-color: ghostwhite;
+}
+.services img{
+    width: 100px;
+    height: 100px;
+    margin: 30px;
+}
+.one,.two,.three,.four,.five,.six,.seven,.eight,.nine,.ten,.onee,.twoo,.threee,.fourr,.fivee {
+    border: 1px solid cornflowerblue;
+    color: cornflowerblue;
+    margin-top: 10px;
+    margin-bottom: 10px;   
+}
+.one,.two,.three,.four,.five,.six,.seven,.eight,.nine,.ten,.onee,.twoo,.threee,.fourr,.fivee h3{
+    text-align: center;
+}
